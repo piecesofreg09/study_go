@@ -12,8 +12,8 @@
 |8||[rot13reader](https://tour.golang.org/methods/23)|[link](a_tour_of_go/exercise_rot13reader.go)|
 |9||[images](https://tour.golang.org/methods/25)|[link](a_tour_of_go/exercise_image.go)|
 |10|[concurrency](https://tour.golang.org/concurrency/1)|[equivalent binary trees](https://tour.golang.org/concurrency/8)|[link](a_tour_of_go/exercise_binary_tree.go)|
-|*11*||[select](https://tour.golang.org/concurrency/5)|[link](a_tour_of_go/example_select.go)|
-|*12*||[select with default](https://tour.golang.org/concurrency/6)|[link](a_tour_of_go/example_select_default.go)|
+|**11**||[select](https://tour.golang.org/concurrency/5)|[link](a_tour_of_go/example_select.go)|
+|**12**||[select with default](https://tour.golang.org/concurrency/6)|[link](a_tour_of_go/example_select_default.go)|
 |13||[web crawler](https://tour.golang.org/concurrency/10)|[link](/a_tour_of_go/exercise_goroutine_web_crawl.go)|
 
 ##### 11, 12 are not exercises on the website, just some explorations with select.
